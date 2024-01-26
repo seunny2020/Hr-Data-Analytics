@@ -1,18 +1,18 @@
-Hr-Data-Analytics
+# Hr-Data-Analytics
 
 
 This project is focused on analyzing HR data and extracting insights to aid in making informed decisions regarding employee management.
 
 
 
-Data
+# Data
 
 
 The data used in this project is a sample HR dataset containing information on employees' demographic information, education level, work experience, and performance metrics.
 
 
 
-Analysis
+# Analysis
 
 
 The analysis in this project involved exploring the data, identifying patterns, and drawing insights. The following tasks were performed:
@@ -29,7 +29,7 @@ Visualization of the distribution of employees' age and the relationship between
 
 
 
-Conclusion
+# Conclusion
 
 
 The insights drawn from the analysis provide valuable information to aid in decision-making regarding employee management. The analysis shows that the company's employee demographics are diverse, with employees distributed across different departments, regions, and education levels. Female employees have a slightly lower average training score than male employees, suggesting a possible gender gap in training opportunities. The analysis also indicates that employees' performance rating is influenced by factors such as age, length of service, and the number of training programs attended.
